@@ -1,3 +1,7 @@
-sign command.txt
-discord rpc/.debug
-discord rpc/node_modules
+node_modules/
+/dist/
+.DS_Store
+
+pluginrc.js
+yarn-error.log
+.vscode
